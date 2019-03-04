@@ -1,0 +1,1 @@
+python SquareMapApp.py 3 20 somdb.sqlite 0.5 0

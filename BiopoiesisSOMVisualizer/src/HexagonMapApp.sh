@@ -1,0 +1,1 @@
+python HexagonMapApp.py 3 20 somdb.sqlite 0.5
